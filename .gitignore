@@ -40,6 +40,6 @@ we2_image_gen_local/Images*.txt
 
 # Some output files
 *.log
-we2_image_gen_local/hx.ico
+we2_image_gen_local/secureboot_tool/cert/Images.txt
 
 .vscode/
