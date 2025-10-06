@@ -38,8 +38,8 @@ we2_image_gen_local/Images*.txt
 *.map
 *.img
 
-.vscode/
-
 # Some output files
 *.log
-we2_image_gen_local/secureboot_tool/cert/Images.txt
+we2_image_gen_local/secureboot_tool/*
+
+.vscode/
